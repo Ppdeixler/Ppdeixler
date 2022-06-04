@@ -1,0 +1,5 @@
+- 👋 Hi, I’m dex
+- 👀 I’m interested in working
+- 🌱 I’m currently learning Java and C#
+- 💞️ I’m looking to collaborate on Game Developing(Programming)
+- 📫 My discord: dex#6761
